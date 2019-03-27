@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8665fb0f-e6fa-4559-8ae3-d01dd11145d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/rps.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/rps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/making_change/making_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/making_change/making_change.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,19 +13,19 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Algorithms$Unittests_in_test_eating_cookies_py.coverage" NAME="Unittests in test_eating_cookies.py Coverage Results" MODIFIED="1553684566131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eating_cookies" />
     <SUITE FILE_PATH="coverage/Algorithms$rps.coverage" NAME="rps Coverage Results" MODIFIED="1553685038058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rock_paper_scissors" />
+    <SUITE FILE_PATH="coverage/Algorithms$Unittests_for_test_making_change_Test.coverage" NAME="Unittests for test_making_change.Test Coverage Results" MODIFIED="1553685287333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/making_change" />
     <SUITE FILE_PATH="coverage/Algorithms$Unittests_in_test_rps_py.coverage" NAME="Unittests in test_rps.py Coverage Results" MODIFIED="1553685043546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rock_paper_scissors" />
     <SUITE FILE_PATH="coverage/Algorithms$eating_cookies.coverage" NAME="eating_cookies Coverage Results" MODIFIED="1553684620408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eating_cookies" />
+    <SUITE FILE_PATH="coverage/Algorithms$making_change.coverage" NAME="making_change Coverage Results" MODIFIED="1553685282439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/making_change" />
+    <SUITE FILE_PATH="coverage/Algorithms$Unittests_in_test_making_change_py.coverage" NAME="Unittests in test_making_change.py Coverage Results" MODIFIED="1553685178455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/making_change" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps.py">
+        <entry file="file://$PROJECT_DIR$/making_change/making_change.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="31" selection-end-line="16" selection-end-column="16" />
-              <folding>
-                <element signature="e#19#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/recipe_batches/recipe_batches.py" />
         <option value="$PROJECT_DIR$/eating_cookies/eating_cookies.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/rps.py" />
+        <option value="$PROJECT_DIR$/making_change/making_change.py" />
       </list>
     </option>
   </component>
@@ -68,7 +69,7 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="rock_paper_scissors" type="462c0819:PsiDirectoryNode" />
+              <item name="making_change" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,8 +96,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_rps.py">
-    <configuration name="eating_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests for test_making_change.Test">
+    <configuration name="making_change" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eating_cookies" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/making_change" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eating_cookies/eating_cookies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/making_change/making_change.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,18 +141,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_eating_cookies.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_making_change.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eating_cookies" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/making_change" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/eating_cookies/test_eating_cookies.py&quot;" />
+      <option name="_new_target" value="&quot;test_making_change.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_making_change.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/making_change" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/making_change/test_making_change.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -172,10 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_making_change.Test" />
+        <item itemvalue="Python.making_change" />
+        <item itemvalue="Python tests.Unittests in test_making_change.py" />
         <item itemvalue="Python tests.Unittests in test_rps.py" />
         <item itemvalue="Python.rps" />
-        <item itemvalue="Python.eating_cookies" />
-        <item itemvalue="Python tests.Unittests in test_eating_cookies.py" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +206,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553541912430</updated>
-      <workItem from="1553541913793" duration="2934000" />
+      <workItem from="1553541913793" duration="3403000" />
     </task>
     <servers />
   </component>
@@ -206,9 +223,15 @@
     <history-entry file="Unittests_in_test_rps_py - 2019.03.27 at 06h 10m 43s.xml">
       <configuration name="Unittests in test_rps.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_making_change_py - 2019.03.27 at 06h 12m 58s.xml">
+      <configuration name="Unittests in test_making_change.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_making_change_Test - 2019.03.27 at 06h 18m 26s.xml">
+      <configuration name="Unittests for test_making_change.Test" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2934000" />
+    <option name="totallyTimeSpent" value="3403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1679" height="759" extended-state="0" />
@@ -284,11 +307,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="31" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#19#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/making_change/test_making_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/making_change/making_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
